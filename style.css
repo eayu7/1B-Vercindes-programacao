@@ -1,5 +1,5 @@
 body{
-background-color:white;
+background-color:twhite;
 }
 
 h1{
@@ -16,4 +16,9 @@ p{
     width: 50%;
     border: 5px  solid black;
     height: 50%
+}
+.itens{
+ font-style: italic;
+ font-size: 50px;
+ text-align: left;
 }
